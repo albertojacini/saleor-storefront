@@ -23,7 +23,6 @@ export const Primary = styled.button<{
   box-shadow: -5px 5px 14px 0px rgba(0, 0, 0, 0.2);
   transition: 0.3s;
   outline: none;
-  font-family: ${props => props.theme.typography.baseFontFamily};
   cursor: pointer;
   color: ${props => props.theme.button.colors[props.color].color};
 
