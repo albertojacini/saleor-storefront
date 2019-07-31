@@ -16,6 +16,7 @@ export const overlayColor = "rgba(199, 207, 207, 0.8)";
 export const rose = "#c22d74";
 export const turquoise = "#13bebb";
 export const turquoiseDark = "#06a09e";
+export const turquoiseLight = "rgba(19, 190, 187, 0.05)";
 export const white = "#fff";
 
 // theme colors
@@ -27,6 +28,7 @@ export const theme = {
   disabled: gray,
   divider: grayLight,
   error: rose,
+  hoverLightBackground: turquoiseLight,
   light: grayLight,
   lightFont: gray,
   overlay: overlayColor,

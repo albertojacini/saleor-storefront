@@ -15,3 +15,4 @@ export * from "./SocialMediaIcon";
 export * from "./DropdownMenu";
 export * from "./Tile";
 export * from "./NavLink";
+export * from "./ShadowBox";
